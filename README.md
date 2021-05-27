@@ -12,4 +12,4 @@ Command:
 ```
 python Manipulator_Analyzer.py
 ```
-<img>
+![Demo Image](https://github.com/kri98nan/arm_robot_analyzer/blob/main/demo.PNG)
